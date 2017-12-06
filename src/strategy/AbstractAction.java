@@ -14,7 +14,7 @@ public abstract class AbstractAction implements Action
     @Override
     public void todo()
     {
-        System.out.println("我是你爸爸");
+        System.out.println("我是你爸爸我来处理");
     }
 
     public Action getAction()
